@@ -34,7 +34,7 @@ namespace API.Controllers
             
             return Ok(mapModel);
         }
-        [HttpGet("{id}")]
+        [HttpGet("{id} ")]
         public ActionResult GetPostById(int id)
         {
             var model = _post.GetPostById(id);
