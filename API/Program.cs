@@ -17,7 +17,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
             options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 
-builder.Services.AddScoped<IItem,ItemService>();
+
 builder.Services.AddScoped<IPost,PostService>();
 builder.Services.AddScoped<IReplay,ReplyService>();
 

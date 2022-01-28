@@ -12,12 +12,10 @@ namespace API.Mapper
     {
         public Maps()
         {
-            //item
-            CreateMap<Item,CreateItemDto>();
-            CreateMap<CreateItemDto,Item>();
+            
+         
 
-            CreateMap<Item,ShowItemDto>();
-            CreateMap<ShowItemDto,Item>();
+       
 
             //posts
             CreateMap<Post,ShowPostDto>();

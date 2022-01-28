@@ -14,7 +14,7 @@ namespace API.Data
             
         }
         
-        public DbSet<Item> Items { get; set; }
+        
         public DbSet<Post> Posts { get; set; }
         public DbSet<PostReplay> PostReplays { get; set; }
     }
