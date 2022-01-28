@@ -1,5 +1,4 @@
 /Users/asher/Projects/appApi/API/bin/Debug/net6.0/appsettings.Development.json
-/Users/asher/Projects/appApi/API/bin/Debug/net6.0/appsettings.json
 /Users/asher/Projects/appApi/API/bin/Debug/net6.0/API
 /Users/asher/Projects/appApi/API/bin/Debug/net6.0/API.deps.json
 /Users/asher/Projects/appApi/API/bin/Debug/net6.0/API.runtimeconfig.json
