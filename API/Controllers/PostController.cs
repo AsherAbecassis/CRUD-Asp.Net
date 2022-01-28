@@ -7,12 +7,16 @@ using API.Dtos.PostDto;
 using API.Models;
 using API.Repository;
 using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using NpgsqlTypes;
 
+
+
 namespace API.Controllers
-{   [ApiController]
+{   [Authorize]
+    [ApiController]
     [Route("api/post")]
     public class PostController : ControllerBase
     {
