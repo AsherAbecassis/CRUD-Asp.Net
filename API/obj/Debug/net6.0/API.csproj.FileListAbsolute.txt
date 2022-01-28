@@ -34,3 +34,4 @@
 /Users/asher/Projects/appApi/API/obj/Debug/net6.0/API.genruntimeconfig.cache
 /Users/asher/Projects/appApi/API/bin/Debug/net6.0/AutoMapper.dll
 /Users/asher/Projects/appApi/API/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/asher/Projects/appApi/API/bin/Debug/net6.0/appsettings.json
